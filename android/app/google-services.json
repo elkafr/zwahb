@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "847261647299",
+    "project_id": "zwahb-4d647",
+    "storage_bucket": "zwahb-4d647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847261647299:android:5dcc71664025fffd4ffd76",
+        "android_client_info": {
+          "package_name": "com.art4muslim.zwahb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847261647299-t8b2nigsn5pv3kdsj7o90077kqro6ns5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9dJa46QgyPVtB9XDlLWZXFWDfqu7QArw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847261647299-t8b2nigsn5pv3kdsj7o90077kqro6ns5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "847261647299-n1b1d8cq80flbj2lff7cd57jepsqcemo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.art4muslim.zwahb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
